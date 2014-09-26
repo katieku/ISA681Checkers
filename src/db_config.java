@@ -8,7 +8,7 @@ public class db_config {
 		String dburl = "jdbc:mysql://localhost/checkers";
 		String driver = "com.mysql.jdbc.Driver";
 		String sUser = "root";
-		String sPwd = "bhakti1691984";
+		String sPwd = "";
 	
 		dbconnection_pool dbConnectionPool=null;
 		try {
